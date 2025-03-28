@@ -13,9 +13,7 @@
             "name": "Launch Java: Continuous Mode",
             "type": "jdk",
             "request": "launch",
-            "launchConfiguration": "Continuous Mode",
-            "console": "internalConsole"
-            
+            "launchConfiguration": "Continuous Mode",    
         }
     ]
 }

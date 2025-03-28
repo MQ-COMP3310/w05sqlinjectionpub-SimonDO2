@@ -1,5 +1,10 @@
 {
     "java.configuration.updateBuildConfiguration": "interactive",
     "java.compile.nullAnalysis.mode": "automatic",
-    "sarif-viewer.connectToGithubCodeScanning": "off"
+    "sarif-viewer.connectToGithubCodeScanning": "off",
+    "debug.confirmOnExit": "always",
+    "debug.console.closeOnEnd": true,
+    "debug.hideLauncherWhileDebugging": true,
+    "debug.internalConsoleOptions": "openOnSessionStart",
+    "debug.terminal.clearBeforeReusing": true
 }
